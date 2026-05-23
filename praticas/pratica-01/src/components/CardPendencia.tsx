@@ -22,13 +22,13 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: '#ff5e00ff'
   },
-    linha: {
-        height: 1,
-        backgroundColor: '#ccc',
-        marginVertical: 10,
+  linha: {
+    height: 1,
+    backgroundColor: '#ccc',
+    marginVertical: 10,
   },
-    texto: {
-        color: '#353535ff'
+  texto: {
+    color: '#353535ff'
   }
 
 });
